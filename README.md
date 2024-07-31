@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋,I'm Bhagyashree Belote
 
-<!--
-**BhagyashreeBelote/BhagyashreeBelote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌐 Passionate About Technology and Web Development 
+🔍 Exploring New Technologies and Learning Opportunities 
+🚀 Actively Seeking Opportunities to Contribute to Innovative Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning
+- Full Stack Java
+
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Lets Talk about
+-     Frontend and Backend technologies
+- 📫 How to reach me:
+- Email:bhagyashreenbelote@gmail.com
+- Linkedin :https://www.linkedin.com/in/bhagyashree-belote-a6663722b?
+- 
 -->
